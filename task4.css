@@ -1,0 +1,56 @@
+#main_div{
+    background-color: yellow;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    border: 1px solid yellow;
+}
+
+#create_account{
+    height: 425px;
+    width: 350px;
+    background-color:antiquewhite;
+    border-radius: 25px;
+    margin-left: 36vw;
+    margin-top: 12vh;
+    padding: 20px;
+    box-shadow: 1px 1px 15px 15px rgb(75, 26, 26);
+    box-shadow: 25px;
+    border:0px solid red;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+#submit{
+    text-align: left;
+    padding-left: 150px;
+}
+
+a{
+    text-decoration: none;
+    color: purple;
+}
+
+.container{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#captcha{
+    display: flex;
+    /* gap: 70px; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    gap: 90px;
+    flex-wrap: wrap;
+}
+
